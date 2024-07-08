@@ -4,10 +4,10 @@
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erickandak&show_icons=true&theme=gruvbox)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Erickandak&theme=gruvbox&border_radius=4.5)
+![GitHub Streak](https://streak-stats.demolab.com?user=chrisdepallan&theme=gruvbox&border_radius=4.5)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erickandak\&layout=donut-vertical&theme=gruvbox)](https://github.com/chrisdepallan/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisdepallan\&layout=donut-vertical&theme=gruvbox)](https://github.com/chrisdepallan/github-readme-stats)
 
 
 #
