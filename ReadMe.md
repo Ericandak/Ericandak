@@ -1,5 +1,4 @@
-# 💫 About Me:
-HI There<br>
+
 
 
 # 💻 Tech Stack:
